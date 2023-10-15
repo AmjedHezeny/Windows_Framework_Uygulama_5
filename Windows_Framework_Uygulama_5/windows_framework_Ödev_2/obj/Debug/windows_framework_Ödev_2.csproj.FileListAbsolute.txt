@@ -1,0 +1,11 @@
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\bin\Debug\windows_framework_Ödev_2.exe.config
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\bin\Debug\windows_framework_Ödev_2.exe
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\bin\Debug\windows_framework_Ödev_2.pdb
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.csproj.AssemblyReference.cache
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.windows_framework_Ödev_2.resources
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.Properties.Resources.resources
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.TimerOdev.resources
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.csproj.GenerateResource.cache
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.csproj.CoreCompileInputs.cache
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.exe
+C:\Users\amged\OneDrive\سطح المكتب\C# Programlar\windows_framework_Ödev_2\windows_framework_Ödev_2\obj\Debug\windows_framework_Ödev_2.pdb
